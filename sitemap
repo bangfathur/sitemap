@@ -7,15 +7,14 @@
 <meta content='IE=9; IE=8; IE=7; IE=EDGE; chrome=1' http-equiv='X-UA-Compatible'/>
 <title>Sitemap</title>
 <meta content='blogger' name='generator'/>
-<link href='http://www.bangfathur.net/favicon.ico' rel='icon' type='image/x-icon'/>
-<link href='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' rel='apple-touch-icon'/>
-<link href='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' rel='apple-touch-icon' sizes='76x76'/>
-<link href='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' rel='apple-touch-icon' sizes='120x120'/>
-<link href='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' rel='apple-touch-icon' sizes='152x152'/>
-<link href='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' rel='apple-touch-icon' sizes='180x180'/>
-<link href='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' rel='icon' sizes='128x128'/>
-<link href='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' rel='icon' sizes='192x192'/>
-<meta content='https://2.bp.blogspot.com/-laO4jCRrOug/WPGS_MuRy-I/AAAAAAAACfc/Dd3NwlMcsuoOAFJVAdJ0T85L5cdMaFjhQCLcB/s1600/fr.png' name='msapplication-TileImage'/>
+<link href='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' rel='apple-touch-icon'/>
+<link href='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' rel='apple-touch-icon' sizes='76x76'/>
+<link href='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' rel='apple-touch-icon' sizes='120x120'/>
+<link href='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' rel='apple-touch-icon' sizes='152x152'/>
+<link href='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' rel='apple-touch-icon' sizes='180x180'/>
+<link href='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' rel='icon' sizes='128x128'/>
+<link href='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' rel='icon' sizes='192x192'/>
+<meta content='https://1.bp.blogspot.com/-IW5Vh0drwr0/WPN4uyI9lEI/AAAAAAAACg8/_o7Ht1hUWLYTY9O0sE6s48G4N7a4xuiXACLcB/s1600/fn.png' name='msapplication-TileImage'/>
 <link href='http://www.bangfathur.net/feeds/posts/default' rel='alternate' title='FATHUR - Atom' type='application/atom+xml'/>
 <link href='http://www.bangfathur.net/feeds/posts/default?alt=rss' rel='alternate' title='FATHUR - RSS' type='application/rss+xml'/>
 <link href='//www.blogger.com/feeds/8279824978924916165/posts/default' rel='alternate' title='FATHUR - Atom' type='application/atom+xml'/>
@@ -91,7 +90,7 @@ b{font-weight:500}
 .header2 .widget{margin:0 auto;padding:0}
 .bungkus-judulblog{margin:0 auto;padding:0;width:100%;height:auto}
 #judulblog{padding:0;margin:0;width:100%}
-#judulblog{background:#266b5e;margin:0 auto;padding:0;position:fixed;top:0;left:0;z-index:999;width:100%;height:60px}
+#judulblog{background:#266b5e;margin:0 auto;padding:5px;position:fixed;top:0;left:0;z-index:999;width:100%;height:60px}
 .content-wrapper{position:relative;width:1100px;max-width:1100px;margin:0 auto}
 #outer-wrapper{width:100%;text-align:left;font:12px Arial;margin:68px auto;padding:0}
 #main-wrapper{position:relative;width:100%;float:left;overflow:hidden;margin:0 auto;padding:5px 5px 60px;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
@@ -446,7 +445,7 @@ amp-accordion.search-blog{width:100%;float:none;overflow:visible}
 <div id='judulblog'>
 <div class='content-wrapper'>
 <div class='mobile-menu-nav' id='mobile-menu-nav'>
-<a href='http://www.bangfathur.net/' itemprop='url' title='FATHUR'><span itemprop='name'><amp-img alt='bangfathur.net' height='60' src='https://1.bp.blogspot.com/-O1wXHtYVEwk/WO9OirD3u-I/AAAAAAAACdI/J01qDR6uxZIM2DuR4dWsj-mttHucsCwMQCLcB/s1600/bg.png' title='Fathur' width='240'></amp-img></span></a>
+<a href='http://www.bangfathur.net/' itemprop='url' title='FATHUR'><span itemprop='name'><amp-img alt='bangfathur.net' height='60' src='https://1.bp.blogspot.com/-s8ENN7RHoTc/WPN4eEO3uDI/AAAAAAAACg4/46r4aodnCHIn4heuusRsR_ZOcWwg_kp2gCLcB/s1600/nf.png' title='Fathur' width='240'></amp-img></span></a>
 <nav class='page-menu' itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/SiteNavigationElement'>
 <ul>
 <li><a href='http://www.bangfathur.net/' itemprop='url' title='Home'><span itemprop='name'>Home</span></a></li>
@@ -510,7 +509,7 @@ amp-accordion.search-blog{width:100%;float:none;overflow:visible}
 <div id='header-inner'>
 <div class='titlewrapper'>
 <h1 class='title' itemprop='headline'>
-<a href='http://www.bangfathur.net/' itemprop='url' title='FATHUR'><span itemprop='name'><amp-img alt='bangfathur.net' height='60' src='https://1.bp.blogspot.com/-O1wXHtYVEwk/WO9OirD3u-I/AAAAAAAACdI/J01qDR6uxZIM2DuR4dWsj-mttHucsCwMQCLcB/s1600/bg.png' title='Fathur' width='240'></amp-img></span></a>
+<a href='http://www.bangfathur.net/' itemprop='url' title='FATHUR'><span itemprop='name'><amp-img alt='bangfathur.net' height='60' src='https://1.bp.blogspot.com/-s8ENN7RHoTc/WPN4eEO3uDI/AAAAAAAACg4/46r4aodnCHIn4heuusRsR_ZOcWwg_kp2gCLcB/s1600/nf.png' title='Fathur' width='240'></amp-img></span></a>
 </h1>
 </div>
 <div class='descriptionwrapper'>

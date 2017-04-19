@@ -385,64 +385,26 @@ blockquote cite:before{content:"\2014 \2009"}
 </div>
 </div>
 </div>
-    <header itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/WPHeader'>
+<header itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/WPHeader'>
 <div id='header-wrapper'>
 <div class='content-wrapper'>
-      <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
-        <b:widget id='Header1' locked='true' title='Notefath (Header)' type='Header' version='1'>
-          <b:widget-settings>
-            <b:widget-setting name='displayUrl'/>
-            <b:widget-setting name='displayHeight'>0</b:widget-setting>
-            <b:widget-setting name='sectionWidth'>600</b:widget-setting>
-            <b:widget-setting name='useImage'>false</b:widget-setting>
-            <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
-            <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
-            <b:widget-setting name='displayWidth'>0</b:widget-setting>
-          </b:widget-settings>
-          <b:includable id='main'>
-    <div id='header-inner'>
-      <div class='titlewrapper'>
-        <b:if cond='data:blog.pageType != &quot;item&quot;'>
-        <h1 class='title' itemprop='headline'>
-<b:include name='title'/>
-        </h1>
-<b:else/>
-        <p class='title' itemprop='headline'>
-          <b:include name='title'/>
-        </p>
-</b:if>
-      </div><b:include name='description'/>
-    </div>
-</b:includable>
-          <b:includable id='description'>
-  <div class='descriptionwrapper'>
-    <p class='description' itemprop='description'><span><data:description/></span></p>
-  </div>
-</b:includable>
-          <b:includable id='title'>
-  <b:if cond='data:blog.url == data:blog.homepageUrl'>
-    <data:title/>
-  <b:else/>
-    <a expr:href='data:blog.homepageUrl' expr:title='data:title' itemprop='url'><span itemprop='name'><data:title/></span></a>
-  </b:if>
-</b:includable>
-        </b:widget>
-      </b:section>
-<b:section class='header' id='header2' maxwidgets='1' showaddelement='yes'>
-  <b:widget id='HTML1' locked='false' title='' type='HTML' version='1'>
-    <b:includable id='main'>
-  <!-- only display title if it's non-empty -->
-  <b:if cond='data:title != &quot;&quot;'>
-    <h2 class='title'><data:title/></h2>
-  </b:if>
-  <div class='widget-content'>
-    <data:content/>
-  </div>
-</b:includable>
-  </b:widget>
-</b:section>
-  </div>
-<div class='clear'/>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title' itemprop='headline'>
+<a href='http://www.bangfathur.net/' itemprop='url' title='Notefath'><span itemprop='name'>Notefath</span></a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description' itemprop='description'><span>
+</span></p>
+</div>
+</div>
+</div></div>
+<div class='header no-items section' id='header2'>
+</div>
+</div>
+<div class='clear'></div>
 </div>
 </header><!-- end header-wrapper -->
 <div class='clear'></div>
